@@ -18,7 +18,7 @@ Installation (optional)
 ```bash
 $ mkdir -p ~/bin
 $ cd ~/bin
-$ wget https://raw.github.com/a-sierra/dockeri/master/dockeri.sh && chmod x dockeri.sh
+$ wget https://raw.github.com/a-sierra/dockeri/master/dockeri.sh && chmod +x dockeri.sh
 ```
 2) Add an `dockeri` alias by adding the following line to your `~/.bashrc` file.
 
